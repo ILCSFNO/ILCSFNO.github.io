@@ -1,4 +1,4 @@
-# ATOC
+# Homework
 Homepage for Homework Resources.
 
 ## 游戏设计与开发(AR_VR)-2024春
@@ -47,3 +47,8 @@ This is the homework for two Labs.
 
 ### Lab4
 > For Main Code, Please visit [Link](https://ilcsfno.github.io/Resources/Homework/软件定义网络-2024春/MainCode/Lab4.zip). (Updated at 2024.06.08)
+
+## System Optimization and Scheduling-2025秋
+This is the homework for SOS.
+### Final Project
+> For Main Code and Results, Please visit [Link](https://ilcsfno.github.io/Resources/Homework/System_Optimization_and_Scheduling-2025秋/MainCode/FinalProject.zip). (Updated at 2026.02.28)
